@@ -1,1 +1,1 @@
-﻿use kullanıcılar_
+﻿select*from kullanıcılar
