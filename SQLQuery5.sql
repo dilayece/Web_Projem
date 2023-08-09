@@ -1,5 +1,4 @@
-﻿create table kullanici(
-adi varchar(15),
-soyadi varchar(15),
-k_adi varchar(20),
-şifre varchar(15))
+﻿create table yazilar(
+yazi_basligi varchar(15),
+yazi_kategori varchar(15),
+yazi_icerigi varchar(40))
