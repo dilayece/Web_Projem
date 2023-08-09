@@ -1,1 +1,1 @@
-﻿select*from kullanıcılar
+﻿select*from yazılar
