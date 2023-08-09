@@ -1,6 +1,4 @@
-﻿create table kullanıcılar(
-ad varchar(15),
-soyad varchar(15),
-k_adi varchar(25),
-şifre varchar(10))
-
+﻿create table yazılar(
+yazı_başlığı varchar(20),
+yazı_kategori varchar(15),
+yazı_içeriği varchar(40))
